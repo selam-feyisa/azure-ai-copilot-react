@@ -1,0 +1,43 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="256" rx="56" fill="#080812"/>
+  <rect x="18" y="18" width="220" height="220" rx="44" fill="url(#panel)" stroke="url(#edge)" stroke-width="3"/>
+  <path d="M128 50L191 86V158L128 194L65 158V86L128 50Z" fill="#10162A" stroke="url(#coreEdge)" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M128 77L167 99.5V144.5L128 167L89 144.5V99.5L128 77Z" fill="url(#core)" stroke="#9BE7FF" stroke-opacity=".72" stroke-width="4" stroke-linejoin="round"/>
+  <circle cx="128" cy="122" r="16" fill="#F8FAFC"/>
+  <path d="M128 96V70" stroke="#00D2FF" stroke-width="8" stroke-linecap="round"/>
+  <path d="M128 174V199" stroke="#7B2FF7" stroke-width="8" stroke-linecap="round"/>
+  <path d="M104 108L82 95" stroke="#00FFB2" stroke-width="8" stroke-linecap="round"/>
+  <path d="M152 108L174 95" stroke="#FF6B6B" stroke-width="8" stroke-linecap="round"/>
+  <path d="M104 136L82 149" stroke="#7B2FF7" stroke-width="8" stroke-linecap="round"/>
+  <path d="M152 136L174 149" stroke="#00D2FF" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="128" cy="70" r="9" fill="#00D2FF"/>
+  <circle cx="128" cy="199" r="9" fill="#7B2FF7"/>
+  <circle cx="82" cy="95" r="9" fill="#00FFB2"/>
+  <circle cx="174" cy="95" r="9" fill="#FF6B6B"/>
+  <circle cx="82" cy="149" r="9" fill="#7B2FF7"/>
+  <circle cx="174" cy="149" r="9" fill="#00D2FF"/>
+  <path d="M92 207H164" stroke="#E8F7FF" stroke-opacity=".78" stroke-width="9" stroke-linecap="round"/>
+  <path d="M106 226H150" stroke="#00D2FF" stroke-opacity=".68" stroke-width="7" stroke-linecap="round"/>
+  <defs>
+    <linearGradient id="panel" x1="31" y1="29" x2="220" y2="230" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#14213D"/>
+      <stop offset=".47" stop-color="#11132C"/>
+      <stop offset="1" stop-color="#230B42"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="27" y1="25" x2="229" y2="231" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00D2FF"/>
+      <stop offset=".55" stop-color="#7B2FF7"/>
+      <stop offset="1" stop-color="#FF6B6B"/>
+    </linearGradient>
+    <linearGradient id="coreEdge" x1="66" y1="57" x2="188" y2="188" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00D2FF"/>
+      <stop offset=".55" stop-color="#7B2FF7"/>
+      <stop offset="1" stop-color="#FF6B6B"/>
+    </linearGradient>
+    <linearGradient id="core" x1="91" y1="79" x2="165" y2="164" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00D2FF"/>
+      <stop offset=".52" stop-color="#7B2FF7"/>
+      <stop offset="1" stop-color="#FF6B6B"/>
+    </linearGradient>
+  </defs>
+</svg>
