@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@tailwindcss/typography": "^0.5.19",
+    "axios": "^1.16.1",
+    "react-router-dom": "^7.15.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.0",
+    "autoprefixer": "^10.5.0",
+    "postcss": "^8.5.15",
+    "tailwindcss": "^4.3.0"
+  }
+}
